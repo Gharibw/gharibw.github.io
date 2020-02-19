@@ -2,9 +2,6 @@
 
 TOC
 
-{:toc}
-
-
 Hola amigos..
 ## SubHeading?
 Salam Alikum
